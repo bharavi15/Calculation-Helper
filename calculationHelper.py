@@ -17,7 +17,7 @@ try:
 except ValueError:
 	rndno=100
 input("Begin test?")
-listOfOperators=['/']
+listOfOperators=['+','-','*','/']
 tt=0
 cs=0
 ws=0
