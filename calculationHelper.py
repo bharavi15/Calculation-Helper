@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 29 08:31:12 2018
-
-@author: bhara
-"""
 import random
 import time
 from os import system
